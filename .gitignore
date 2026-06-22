@@ -1,0 +1,5 @@
+zk/roles/zookeeper/vars/main.yaml
+# 忽略所有 inventory 文件
+*/inventory
+
+.env
